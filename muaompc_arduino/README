@@ -1,0 +1,3 @@
+compile the static library with:
+$ gcc -c *.c
+$ ar rcs libmuaompc.a *.o
